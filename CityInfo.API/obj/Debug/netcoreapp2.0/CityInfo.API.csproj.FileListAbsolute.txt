@@ -1,0 +1,11 @@
+D:\Proyectos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.deps.json
+D:\Proyectos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.json
+D:\Proyectos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.dev.json
+D:\Proyectos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.dll
+D:\Proyectos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.pdb
+D:\Proyectos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csprojResolveAssemblyReference.cache
+D:\Proyectos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csproj.CoreCompileInputs.cache
+D:\Proyectos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfoInputs.cache
+D:\Proyectos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfo.cs
+D:\Proyectos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.dll
+D:\Proyectos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.pdb
