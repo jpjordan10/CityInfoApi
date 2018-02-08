@@ -17,7 +17,6 @@ namespace CityInfo.API
                     Id = 1,
                     Name = "New York City",
                     Description = "The One with that big park.",
-                    NumberOfPointsOfInterest = new List<PointOfInterestDto>().Count,
                     PointOfInterest = new List<PointOfInterestDto>()
                     {
                         new PointOfInterestDto()
@@ -38,13 +37,43 @@ namespace CityInfo.API
                 {
                     Id = 2,
                     Name = "Antwerp",
-                    Description = "The one with the cathedral that was never really finished."
+                    Description = "The one with the cathedral that was never really finished.",
+                    PointOfInterest = new List<PointOfInterestDto>()
+                    {
+                        new PointOfInterestDto()
+                        {
+                            Id = 3,
+                            Name = "Cathedral of our Lady",
+                            Description = "A Gothic style cathedral, conceived by architects Jan and Pieter Appelmans."
+                        },
+                        new PointOfInterestDto()
+                        {
+                            Id = 4,
+                            Name = "Antwerp Central Station",
+                            Description = "The finest example of railway architecture in Belgium."
+                        }
+                    }
                 },
                 new CityDto()
                 {
                     Id = 3,
                     Name = "Paris",
-                    Description = "The one with that big tower."
+                    Description = "The one with that big tower.",
+                    PointOfInterest = new List<PointOfInterestDto>()
+                    {
+                        new PointOfInterestDto()
+                        {
+                            Id = 5,
+                            Name = "Eiffel Tower",
+                            Description = "A wrought iron lattice tower on the Champ de Mars, named after engineer Gustave."
+                        },
+                        new PointOfInterestDto()
+                        {
+                            Id = 6,
+                            Name = "The Louvre",
+                            Description = "The world's largest museum."
+                        }
+                    }
                 }
             };
         }
